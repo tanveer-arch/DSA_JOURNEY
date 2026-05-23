@@ -27,7 +27,7 @@ echo 📦 Committing changes...
 git commit -m "%commit_msg%"
 
 echo 📤 Pushing to GitHub...
-git push
+git push -u origin main
 
 echo.
 echo ==========================================
