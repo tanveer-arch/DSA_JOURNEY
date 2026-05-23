@@ -1,0 +1,13 @@
+# Compiled executable binaries
+*.exe
+*.o
+*.out
+*.obj
+*.app
+
+# Temporary and IDE files
+.vscode/
+tempCodeRunnerFile*
+.DS_Store
+*.tmp
+*.log
