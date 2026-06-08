@@ -79,3 +79,6 @@ long long mod=1000000007;
         return result;
     }
 };
+
+time complexity: O(log n) due to the binary exponentiation.
+space complexity: O(1) since we are using only a constant amount of extra space.

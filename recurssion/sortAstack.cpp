@@ -85,3 +85,6 @@ public:
         emptystack(st);
     }
 };
+
+time complexity: O(n^2) in the worst case, because for each of the n elements, we may have to pop and push up to n elements in `insertatbottom`.
+space complexity: O(n) due to the recursive call stack holding up to n elements in the worst case.

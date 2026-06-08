@@ -17,10 +17,10 @@ My main goal is to build a consistent daily coding habit. To keep things transpa
 | 📦 [Solve Problems on Arrays](array_q%27s/) | `■■■■░░░░░░` 35% | **14** / 40 |
 | 🔍 [Binary Search](binarysearch_array/) | `■■■■■░░░░░` 53% | **17** / 32 |
 | 🔗 [Learn LinkedList](LL_striverquestions/) | `■■■■■■■■░░` 77% | **24** / 31 |
-| 🔄 [Recursion [PatternWise]](recurssion/) | `■■■░░░░░░░` 28% | **7** / 25 |
+| 🔄 [Recursion [PatternWise]](recurssion/) | `■■■■░░░░░░` 44% | **11** / 25 |
 | 🌀 [Miscellaneous / Others](miscalleaneous/) | N/A | **20** / — |
 
-**🔥 Total Solved:** `88` problems overall! 
+**🔥 Total Solved:** `92` problems overall! 
 
 ---
 
@@ -107,17 +107,21 @@ My main goal is to build a consistent daily coding habit. To keep things transpa
 | 23 | Sort0,1,2in LinkedList | `sort0,1,2inLL.cpp` | [View Code](./LL_striverquestions/sort0%2C1%2C2inLL.cpp) |
 | 24 | Sort LinkedList | `sortLL.cpp` | [View Code](./LL_striverquestions/sortLL.cpp) |
 
-### 🔄 Recursion [PatternWise] (7 solved)
+### 🔄 Recursion [PatternWise] (11 solved)
 
 | # | Problem Name | Solution File | Link |
 | :---: | :--- | :--- | :---: |
 | 1 | Atoi | `atoi.cpp` | [View Code](./recurssion/atoi.cpp) |
 | 2 | Countgoodnos | `countgoodnos.cpp` | [View Code](./recurssion/countgoodnos.cpp) |
 | 3 | Factorial | `factorial.cpp` | [View Code](./recurssion/factorial.cpp) |
-| 4 | Palindrome | `palindrome.cpp` | [View Code](./recurssion/palindrome.cpp) |
-| 5 | Recurrsionbasic | `recurrsionbasic.cpp` | [View Code](./recurssion/recurrsionbasic.cpp) |
-| 6 | Reversearr | `reversearr.cpp` | [View Code](./recurssion/reversearr.cpp) |
-| 7 | Sort Astack | `sortAstack.cpp` | [View Code](./recurssion/sortAstack.cpp) |
+| 4 | Generate All Para | `generate_all_para.cpp` | [View Code](./recurssion/generate_all_para.cpp) |
+| 5 | Generatenoconsectivezero | `generatenoconsectivezero.cpp` | [View Code](./recurssion/generatenoconsectivezero.cpp) |
+| 6 | Palindrome | `palindrome.cpp` | [View Code](./recurssion/palindrome.cpp) |
+| 7 | Recurrsionbasic | `recurrsionbasic.cpp` | [View Code](./recurssion/recurrsionbasic.cpp) |
+| 8 | Reversearr | `reversearr.cpp` | [View Code](./recurssion/reversearr.cpp) |
+| 9 | Reversestack | `reversestack.cpp` | [View Code](./recurssion/reversestack.cpp) |
+| 10 | Sort Astack | `sortAstack.cpp` | [View Code](./recurssion/sortAstack.cpp) |
+| 11 | Subsets | `subsets.cpp` | [View Code](./recurssion/subsets.cpp) |
 
 ### 🌀 Miscellaneous / Others (20 solved)
 
