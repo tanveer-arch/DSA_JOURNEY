@@ -29,6 +29,11 @@ FOLDER_CONFIG = {
         "icon": "🔄",
         "target": 25
     },
+    "strings": {
+        "name": "Strings [Basic and Medium]",
+        "icon": "🔤",
+        "target": 15
+    },
     "miscalleaneous": {
         "name": "Miscellaneous / Others",
         "icon": "🌀",
@@ -42,6 +47,7 @@ FOLDER_ORDER = [
     "binarysearch_array",
     "LL_striverquestions",
     "recurssion",
+    "strings",
     "miscalleaneous"
 ]
 
