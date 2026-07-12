@@ -18,10 +18,10 @@ My main goal is to build a consistent daily coding habit. To keep things transpa
 | 🔍 [Binary Search](binarysearch_array/) | `■■■■■░░░░░` 53% | **17** / 32 |
 | 🔗 [Learn LinkedList](LL_striverquestions/) | `■■■■■■■■░░` 77% | **24** / 31 |
 | 🔄 [Recursion [PatternWise]](recurssion/) | `■■■■░░░░░░` 44% | **11** / 25 |
-| 🔤 [Strings [Basic and Medium]](strings/) | `■░░░░░░░░░` 6% | **1** / 15 |
+| 🔤 [Strings [Basic and Medium]](strings/) | `■░░░░░░░░░` 13% | **2** / 15 |
 | 🌀 [Miscellaneous / Others](miscalleaneous/) | N/A | **20** / — |
 
-**🔥 Total Solved:** `93` problems overall! 
+**🔥 Total Solved:** `94` problems overall! 
 
 ---
 
@@ -124,11 +124,12 @@ My main goal is to build a consistent daily coding habit. To keep things transpa
 | 10 | Sort Astack | `sortAstack.cpp` | [View Code](./recurssion/sortAstack.cpp) |
 | 11 | Subsets | `subsets.cpp` | [View Code](./recurssion/subsets.cpp) |
 
-### 🔤 Strings [Basic and Medium] (1 solved)
+### 🔤 Strings [Basic and Medium] (2 solved)
 
 | # | Problem Name | Solution File | Link |
 | :---: | :--- | :--- | :---: |
 | 1 | Removeoutparanth | `removeoutparanth.cpp` | [View Code](./strings/removeoutparanth.cpp) |
+| 2 | Reverse Str | `reverse_str.cpp` | [View Code](./strings/reverse_str.cpp) |
 
 ### 🌀 Miscellaneous / Others (20 solved)
 
